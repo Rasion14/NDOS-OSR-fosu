@@ -50,7 +50,7 @@
 - banking
 - oos
 - stackoverflow
-
+获取链接：https://github.com/thuiar/Adaptive-Decision-Boundary.
 ### 3. 运行模型
 在终端中执行主脚本启动自动化实验：
 
